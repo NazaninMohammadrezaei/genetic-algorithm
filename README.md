@@ -21,10 +21,17 @@
      - Cross-over :  Choose 20 parents.Split them from a random point.Substiute one part for another
 
 - Repeat the Loop for 600 iterations and check the reduction of the taken distance over the generations
+- Results:
 
+![1](https://user-images.githubusercontent.com/88426435/139634288-9ca06e5d-573a-49b7-a988-136a514ddf42.png)
+![100](https://user-images.githubusercontent.com/88426435/139634305-4f9653c6-e8d6-4c25-86cd-72480284b8bb.png)
+![500](https://user-images.githubusercontent.com/88426435/139634315-bab88e41-10dd-446a-ae70-5d76d84b9deb.png)
 
+- Total distance reduction over generations
 
+![Average_Distance_Over_Trials](https://user-images.githubusercontent.com/88426435/139632840-00ed646e-85c5-4487-adab-e9eeb533caf3.png)
 
+- The best chromosome 
 
-
+![Capture](https://user-images.githubusercontent.com/88426435/139634281-fbfabda8-6e35-4a96-ba00-d868fbca9348.PNG)
 
