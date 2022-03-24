@@ -11,6 +11,7 @@
 
 ![View_Of_25_Cities](https://user-images.githubusercontent.com/88426435/139630692-ee0aecab-40e9-4040-8153-583fa2248658.png)
 
+# Process
 - We Produce 50 chromosomes as initial parents (InitialParents.m)
      - example of a chromosome : [5 16 3 1 25 20 14...9] 
 
@@ -23,7 +24,8 @@
      - Cross-over :  Choose 20 parents.Split them from a random point.Substiute one part for another
 
 - Repeat the Loop for 600 iterations and check the reduction of the taken distance over the generations
-- Results:
+
+# Results
 
 ![1](https://user-images.githubusercontent.com/88426435/139634288-9ca06e5d-573a-49b7-a988-136a514ddf42.png)
 ![100](https://user-images.githubusercontent.com/88426435/139634305-4f9653c6-e8d6-4c25-86cd-72480284b8bb.png)
