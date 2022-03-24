@@ -1,4 +1,6 @@
 # Genetic_Algorithm
+
+# Goal
 - The goal is to solve travelling salesman problem with genetic algorithm:
      - Generate 25 random cities in the three dimensional space where 0<x_city<3 , 0<y_city<4 , 0<z_city<5
      - Encode these 25 points with alphabets from B to Z
